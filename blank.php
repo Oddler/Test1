@@ -1,2 +1,3 @@
 <?
-// Just a blank
+// My blank
+// Useless

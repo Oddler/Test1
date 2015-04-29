@@ -2,5 +2,5 @@
 
   require_once('core.php');
   
-  $o = new soCore();
-  $o->go();
+  $o = new soCore1();
+  echo $o->go();
