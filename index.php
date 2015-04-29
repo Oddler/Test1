@@ -6,6 +6,10 @@
 </head>
 <body>
 	
+<?
+  require_once('go-go.php');
+?>
+	
 	<div>
 		{{content1}}
 		
