@@ -7,7 +7,9 @@
 <body>
 	
 	<div>
-		{{content}}
+		{{content1}}
+		
+		{{content2}}
 	</div>
 	
 </body>
