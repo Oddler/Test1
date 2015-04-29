@@ -4,6 +4,3 @@
   
   $o = new adminCore();
   echo $o->go();
-  echo $o->go();
-  echo $o->go();
-  echo $o->go();
