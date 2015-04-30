@@ -12,6 +12,7 @@
   else
   {
     echo 'NO<br />';
+    echo 'NO<br />';
   }
   
   

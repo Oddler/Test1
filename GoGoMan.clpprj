@@ -1,3 +1,252 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project name="E:\_githubTest\Test1\GoGoMan.clpprj">
-	<settings><PM_URL><![CDATA[e:/Archive/_zTmp/codLob/]]></PM_URL><PM_HOME_URL><![CDATA[e:/Archive/_zTmp/codLob/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS></settings></project>
+	<settings><PM_URL><![CDATA[e:/Archive/_zTmp/codLob/]]></PM_URL><PM_HOME_URL><![CDATA[e:/Archive/_zTmp/codLob/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="E:\_githubTest\Test1\index.php"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="admin.core.php;PHP:PHP Include;E:\_githubTest\Test1\admin.php;f16;2;30;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="core.php;PHP:PHP Include;E:\_githubTest\Test1\go-go.php;f16;2;24;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="go-go.php;PHP:PHP Include;E:\_githubTest\Test1\Codelobster0.php;f16;9;25;9;;E:\_githubTest\Test1\index.php;f16;9;25;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="cView;PHP:Class Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f2;165;3;1098;;;;vpos;;v;;r;;d2,166;;b0,0;;m">
+				<treenode node="_makeOneListCalendar;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;406;2;457;;;;vpos;;v;;r;;d1,407;;b0,5;;moRow;;p">
+					<treenode node="oLang;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;408;19;408;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f39;406;44;406;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oUnit;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f21;408;27;408;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_makeOneListEvent_Doned;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;222;2;261;;;;vpos;;v;;r;;d1,223;;b0,5;;moRow;;p">
+					<treenode node="oLang;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;224;19;224;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f42;222;47;222;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oUnit;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f21;224;27;224;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_makeOneListEvent_Events;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;180;2;219;;;;vpos;;v;;r;;d1,181;;b0,5;;moRow;;p">
+					<treenode node="oLang;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;182;19;182;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f43;180;48;180;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oUnit;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f21;182;27;182;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_makeOneListEvent2;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;265;2;305;;;;vpos;;v;;r;;d1,266;;b0,5;;moRow;;p">
+					<treenode node="oLang;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;267;19;267;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f37;265;42;265;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oUnit;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f21;267;27;267;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_makeSites;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;308;2;402;;;;vpos;;v;;r;;d1,309;;b0,5;;m">
+					<treenode node="aItems;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;363;13;363;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aSites;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;319;13;319;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="bOpened;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f4;330;12;330;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="database;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f29;310;38;310;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="id_site;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;312;14;312;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oItem;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f25;365;31;365;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oLang;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;310;19;310;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oSite;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f25;328;31;328;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oUnit;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f21;310;27;310;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="fList;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f4;461;5;855;;;;vpos;;v;;r;;d4,462;;b0,0;;mrows;;pPageNav;;p">
+					<treenode node="aAllBySeason;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;493;19;493;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aLeng;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f88;463;94;463;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aNew;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;474;11;474;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aOld;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;477;11;477;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="bFirstSeason;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;789;19;789;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="bMonthShowed;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;795;21;795;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="calendar;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;468;15;468;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="database;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;463;22;463;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="dateParts;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;793;18;793;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="id_site;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;467;14;467;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="iLast;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;787;12;787;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="iLastMonth1;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;788;18;788;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="Month;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;794;14;794;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mosConfig_absolute_path;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f24;463;48;463;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mosConfig_live_site;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f50;463;70;463;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oCalendar2;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f2;840;13;840;;;;vpossoCalendar2;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oLang;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f72;463;78;463;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="old;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;469;10;469;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oOne;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f23;733;28;733;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oUnit;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f80;463;86;463;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="PageNav;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f28;461;36;461;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="rows;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f20;461;25;461;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="fOne;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f4;858;5;1091;;;;vpos;;v;;r;;d4,859;;b0,0;;moRow;;p">
+					<treenode node="aNewsiteone;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;903;25;903;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aNewsiteone1;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f37;909;50;909;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aPlayers;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f3;870;12;870;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aPlayersIDs;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f3;867;15;867;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="color_block;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f5;882;17;882;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="color_text;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f5;883;16;883;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="database;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;861;22;861;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mosConfig_absolute_path;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f24;861;48;861;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mosConfig_live_site;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f50;861;70;861;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oLang;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f72;861;78;861;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oOne;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f29;1004;34;1004;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f19;858;24;858;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oUnit;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f80;861;86;861;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="site_one;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f23;901;32;901;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sPicPath;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;877;15;877;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="makeDate;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f10;167;2;177;;;;vpos;;v;;r;;d3,168;;b0,5;;mDate;;p">
+					<treenode node="Date;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f28;167;33;167;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+			</treenode>
+			<treenode node="soCalendar2;PHP:Class Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f2;3;3;162;;;;vpos;;v;;r;;d2,4;;b0,0;;m">
+				<treenode node="__construct;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f11;19;2;48;;;;vpos;;v;;r;;d4,20;;b1,0;;m">
+					<treenode node="database;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f33;21;42;21;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mosConfig_so_lang;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;21;31;21;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="row;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f23;29;27;29;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="rows;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;26;11;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sDate;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;34;12;34;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;28;11;28;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_Date2UK;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f14;8;2;17;;;;vpos;;v;;r;;d4,9;;b2,0;;mInDate;;p">
+					<treenode node="InDate;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f32;8;39;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="new_date;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;14;15;14;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="new_mask;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;11;15;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="obj;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;13;10;13;;;;vposDate_Time_Converter;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="orig_mask;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;10;16;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="draw;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f11;50;2;161;;;;vpos;;v;;r;;d4,51;;b1,0;;m">
+					<treenode node="mosConfig_so_lang;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;52;31;52;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oLang;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f33;52;39;52;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_aDates;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f14;5;22;5;;;;vpos;;v;;r;;d-1,-1;;b2,0;;m">
+				</treenode>
+				<treenode node="_aLinks;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f14;6;22;6;;;;vpos;;v;;r;;d-1,-1;;b2,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="o;PHP:Var Name;E:\_githubTest\Test1\admin.php;f2;4;4;4;;E:\_githubTest\Test1\go-go.php;f2;4;4;4;;;;vpossoCore1;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+			<treenode node="makeCalDate;JS:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f0;86;2;122;;;;vpos;;v;;r;;d1,87;;b0,0;;mdate;;p">
+				<treenode node="d;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;89;7;89;;;;vposString;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="date;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f22;86;26;86;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="Date2;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;107;11;107;;;;vposString;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="m;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;90;7;90;;;;vposString;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="mosConfig_so_lang;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f12;103;29;103;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="y;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;91;7;91;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="aDates;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f4;124;10;124;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="aLinks;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f1;125;7;125;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="arr;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f14;75;17;75;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="calendar;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;661;16;661;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="document;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f2;129;10;129;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="go_2_anchor;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;651;17;651;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="i;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f12;79;13;79;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="id_site;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;648;15;648;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="inArray;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f0;74;7;74;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="old;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;670;11;670;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="val;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f19;75;22;75;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="E:\_githubTest\Test1\index.php" crc="532710837"/>
+		<file name="E:\_githubTest\Test1\go-go.php" crc="1951950781"/>
+		<file name="E:\_githubTest\Test1\admin.php" crc="615664886"/>
+	</filescache>
+</project>
