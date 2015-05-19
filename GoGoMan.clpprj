@@ -2,6 +2,8 @@
 <project name="E:\_githubTest\Test1\GoGoMan.clpprj">
 	<settings><PM_URL><![CDATA[e:/Archive/_zTmp/codLob/]]></PM_URL><PM_HOME_URL><![CDATA[e:/Archive/_zTmp/codLob/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
 		<file name="E:\_githubTest\Test1\index.php"/>
+		<file name="E:\_githubTest\Test1\admin.php"/>
+		<file name="E:\_githubTest\Test1\go-go.php"/>
 	</lastopfiles>
 	<errors version="5.3">
 	</errors>
@@ -13,7 +15,47 @@
 			</treenode>
 			<treenode node="go-go.php;PHP:PHP Include;E:\_githubTest\Test1\Codelobster0.php;f16;9;25;9;;E:\_githubTest\Test1\index.php;f16;9;25;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="cView;PHP:Class Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f2;165;3;1098;;;;vpos;;v;;r;;d2,166;;b0,0;;m">
+			<treenode node="cView;PHP:Class Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f2;165;3;1098;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f2;3;3;573;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f2;3;3;383;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f2;3;3;538;;;;vpos;;v;;r;;d2,166;;b0,0;;m">
+				<treenode node="_makeOneCat;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f11;48;5;79;;;;vpos;;v;;r;;d1,49;;b2,0;;moRow;;p">
+					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f33;48;38;48;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sLink;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f6;55;12;55;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sPicPath;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f6;52;15;52;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_makeOneExtra;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f11;33;5;97;;;;vpos;;v;;r;;d1,34;;b2,0;;moRow;;p">
+					<treenode node="aConfig;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f35;35;43;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mosConfig_live_site;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f13;35;33;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oCart;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f45;35;51;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f35;33;40;33;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sClass;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f2;51;9;51;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sLink;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f6;42;12;42;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sPicPath;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f6;39;15;39;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_makeOneItem;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f11;150;5;277;;;;vpos;;v;;r;;d1,151;;b2,0;;moRow;;p">
+					<treenode node="aConfig;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f35;152;43;152;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mosConfig_live_site;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f13;152;33;152;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oCart;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f45;152;51;152;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f34;150;39;150;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sClass;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f2;177;9;177;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sLink;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f6;159;12;159;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sPicPath;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f6;156;15;156;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
 				<treenode node="_makeOneListCalendar;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;406;2;457;;;;vpos;;v;;r;;d1,407;;b0,5;;moRow;;p">
 					<treenode node="oLang;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;408;19;408;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
@@ -46,6 +88,14 @@
 					<treenode node="oUnit;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f21;267;27;267;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
+				<treenode node="_makePathWay;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f14;23;2;45;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f14;6;2;30;;;;vpos;;v;;r;;d4,24;;b2,0;;moActCat;;p">
+					<treenode node="oActCat;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f37;23;45;23;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f37;6;45;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oActParentCat;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f7;35;21;35;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f5;16;19;16;;;;vposcTbl_Category;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sRet;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f6;25;11;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
 				<treenode node="_makeSites;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;308;2;402;;;;vpos;;v;;r;;d1,309;;b0,5;;m">
 					<treenode node="aItems;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;363;13;363;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
@@ -66,8 +116,96 @@
 					<treenode node="oUnit;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f21;310;27;310;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="fList;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f4;461;5;855;;;;vpos;;v;;r;;d4,462;;b0,0;;mrows;;pPageNav;;p">
+				<treenode node="_showCategory;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f11;81;2;147;;;;vpos;;v;;r;;d1,82;;b2,0;;moActCat;;prows;;p">
+					<treenode node="bNewRow;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f4;107;12;107;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="i;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f3;104;5;104;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oActCat;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f35;81;43;81;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="row;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f20;105;24;105;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="rows;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f46;81;51;81;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sBackLink;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f3;84;13;84;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f29;100;34;100;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_showItems;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f11;361;2;501;;;;vpos;;v;;r;;d1,362;;b2,0;;moActCat;;prows;;p">
+					<treenode node="bNewRow;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f4;449;12;449;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="i;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f3;442;5;442;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oActCat;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f32;361;40;361;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="row;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f20;443;24;443;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="rows;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f43;361;48;361;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sBackLink;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f3;364;13;364;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f100;384;105;384;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_showMain;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f11;280;2;359;;;;vpos;;v;;r;;d1,281;;b2,0;;m">
+					<treenode node="aConfig;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f24;282;32;282;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aTextRows;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f3;287;13;287;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="bNewRow;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f4;321;12;321;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="database;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f13;282;22;282;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="i;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f3;314;5;314;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="row;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f20;315;24;315;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="rows;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f3;284;8;284;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f7;332;12;332;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="fEdit;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f4;162;5;537;;;;vpos;;v;;r;;d4,163;;b0,0;;mrow;;p">
+					<treenode node="aArray;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f2;327;9;327;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aConfig;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f43;164;51;164;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="id_cat;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f53;164;60;164;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="Id_name;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f13;164;21;164;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="id_prod;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f6;169;14;169;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="ImgPath;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f23;164;31;164;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mosConfig_absolute_path;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f62;164;86;164;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mosConfig_live_site;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f88;164;108;164;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oImegesBox;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f8;496;19;496;;;;vposc_gui_img3;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="row;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f20;162;24;162;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="section;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f33;164;41;164;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="fExtra;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f11;334;2;380;;;;vpos;;v;;r;;d4,335;;b0,5;;maTMP;;p">
+					<treenode node="aTMP;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f27;334;32;334;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="i;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f8;346;10;346;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="id;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f25;347;28;347;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f7;362;12;362;;;;vposcTbl_Items;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="fList;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f4;461;5;855;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f4;504;5;569;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f4;5;5;160;;;;vpos;;v;;r;;d4,462;;b0,0;;mrows;;pPageNav;;p">
 					<treenode node="aAllBySeason;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;493;19;493;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aConfig;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f23;506;31;506;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f23;8;31;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aItems;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f8;531;15;531;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="aLeng;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f88;463;94;463;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
@@ -85,17 +223,39 @@
 					</treenode>
 					<treenode node="dateParts;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;793;18;793;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
+					<treenode node="filter;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f6;523;13;523;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="i;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f6;91;8;91;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="id;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f6;521;9;521;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="id_cat;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f6;522;13;522;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f6;30;13;30;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="Id_name;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f13;506;21;506;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f13;8;21;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="id_prod;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f6;31;14;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
 					<treenode node="id_site;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;467;14;467;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="iLast;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;787;12;787;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="iLastMonth1;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;788;18;788;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
+					<treenode node="ImgPath;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f55;506;63;506;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="main;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f6;524;11;524;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mainframe;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f75;506;85;506;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
 					<treenode node="Month;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;794;14;794;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="mosConfig_absolute_path;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f24;463;48;463;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="mosConfig_live_site;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f50;463;70;463;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="mosConfig_live_site;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f50;463;70;463;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f33;506;53;506;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="my_limit;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f13;143;22;143;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oActCat;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f8;528;16;528;;;;vposcTbl_Category;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="oCalendar2;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f2;840;13;840;;;;vpossoCalendar2;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
@@ -105,14 +265,32 @@
 					</treenode>
 					<treenode node="oOne;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f23;733;28;733;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
+					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f8;48;13;48;;;;vposStdClass;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oSoSeo;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f8;533;15;533;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
 					<treenode node="oUnit;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f80;463;86;463;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="PageNav;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f28;461;36;461;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="oView;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f6;511;12;511;;;;vposcView;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="rows;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f20;461;25;461;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="PageNav;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f28;461;36;461;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f28;504;36;504;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f28;5;36;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="row;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f24;92;28;92;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="rows;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f20;461;25;461;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f20;504;25;504;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\a_items.html.php;f20;5;25;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="section;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f65;506;73;506;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sRet;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\category.html.php;f6;509;11;509;;;;vposcView;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="fOne;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f4;858;5;1091;;;;vpos;;v;;r;;d4,859;;b0,0;;moRow;;p">
+				<treenode node="fOne;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f4;858;5;1091;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f4;99;5;331;;;;vpos;;v;;r;;d4,859;;b0,0;;moRow;;p">
+					<treenode node="aConfig;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f69;101;77;101;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aExts;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f6;290;12;290;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="aFiles;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f6;291;13;291;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
 					<treenode node="aNewsiteone;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;903;25;903;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="aNewsiteone1;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f37;909;50;909;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
@@ -127,21 +305,35 @@
 					</treenode>
 					<treenode node="database;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f13;861;22;861;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="mosConfig_absolute_path;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f24;861;48;861;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="mainframe;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f87;101;97;101;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="mosConfig_live_site;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f50;861;70;861;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="mosConfig_absolute_path;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f24;861;48;861;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f13;101;37;101;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mosConfig_live_site;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f50;861;70;861;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f39;101;59;101;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oActCat;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f6;128;14;128;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oCart;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f79;101;85;101;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oFile;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f27;292;33;292;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="oLang;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f72;861;78;861;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="oOne;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f29;1004;34;1004;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f19;858;24;858;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f19;858;24;858;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f19;99;24;99;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="oUnit;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f80;861;86;861;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="oSoSeo;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f6;106;13;106;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oUnit;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f80;861;86;861;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f61;101;67;101;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sGalPath;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f2;287;11;287;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="site_one;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f23;901;32;901;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="sPicPath;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;877;15;877;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="sLink;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f6;133;12;133;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sPicPath;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;877;15;877;;E:\Work\Web\Working\SOCompany\23zer\components\com_socatalog\views\items.html.php;f6;130;15;130;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
 				<treenode node="makeDate;PHP:Function Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f10;167;2;177;;;;vpos;;v;;r;;d3,168;;b0,5;;mDate;;p">
@@ -187,7 +379,67 @@
 				<treenode node="_aLinks;PHP:Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f14;6;22;6;;;;vpos;;v;;r;;d-1,-1;;b2,0;;m">
 				</treenode>
 			</treenode>
-			<treenode node="o;PHP:Var Name;E:\_githubTest\Test1\admin.php;f2;4;4;4;;E:\_githubTest\Test1\go-go.php;f2;4;4;4;;;;vpossoCore1;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="soCatalogMenu;PHP:Class Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f2;4;3;100;;;;vpos;;v;;r;;d2,5;;b0,0;;m">
+				<treenode node="__construct;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f1;11;2;17;;;;vpos;;v;;r;;d1,12;;b0,0;;m">
+					<treenode node="mainframe;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f35;13;45;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="mosConfig_live_site;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f13;13;33;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f3;14;8;14;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_makeActPath;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f11;33;2;42;;;;vpos;;v;;r;;d1,34;;b2,0;;m">
+					<treenode node="_REQUEST;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f22;35;31;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="iActiveId;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f3;35;13;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f5;38;10;38;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_makeActPathLevel;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f11;20;2;32;;;;vpos;;v;;r;;d1,21;;b2,0;;mid;;p">
+					<treenode node="database;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f10;22;19;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="iActiveId;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f5;28;15;28;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="id;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f38;20;41;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="rows;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f6;24;11;24;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f5;29;10;29;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_makeLevel;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f11;44;2;87;;;;vpos;;v;;r;;d1,45;;b2,0;;mid;;piLevel;;p">
+					<treenode node="database;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f13;46;22;46;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="id;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f31;44;34;44;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="iLevel;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f36;44;43;44;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="iNextLevel;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f8;54;19;54;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="oRow;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f25;58;30;58;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="rows;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f6;48;11;48;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sLink;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f10;60;16;60;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f29;62;34;62;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="go;PHP:Function Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f1;89;2;99;;;;vpos;;v;;r;;d1,90;;b0,0;;mid_root;;p">
+					<treenode node="id_root;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f13;89;21;89;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="sRet;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f3;97;8;97;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f4;94;9;94;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_aActive;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f13;8;22;8;;;;vpos;;v;;r;;d-1,-1;;b2,0;;m">
+				</treenode>
+				<treenode node="_sTemplPath;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f13;6;25;6;;;;vpos;;v;;r;;d-1,-1;;b2,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="o;PHP:Var Name;E:\Work\Web\Working\SOCompany\23zer\modules\mod_somenu1.php;f2;105;4;105;;E:\_githubTest\Test1\admin.php;f2;4;4;4;;E:\_githubTest\Test1\go-go.php;f2;4;4;4;;;;vpossoCore1;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 		</phptree>
 		<jstree>
@@ -213,6 +465,12 @@
 			</treenode>
 			<treenode node="calendar;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;661;16;661;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
+			<treenode node="defaults;JS:JS Var Name;E:\Work\Web\Working\SOCompany\23zer\templates\23zernishka\js\main.js;f8;2;5;5;;;;vpos;;v;;r;;d19,2;;b0,0;;m">
+				<treenode node="height;JS:JS Var Name;E:\Work\Web\Working\SOCompany\23zer\templates\23zernishka\js\main.js;f5;4;11;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="width;JS:JS Var Name;E:\Work\Web\Working\SOCompany\23zer\templates\23zernishka\js\main.js;f5;3;10;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
 			<treenode node="document;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f2;129;10;129;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="go_2_anchor;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f6;651;17;651;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
@@ -223,7 +481,13 @@
 			</treenode>
 			<treenode node="inArray;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f0;74;7;74;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
+			<treenode node="jQuery;JS:JS Var Name;E:\Work\Web\Working\SOCompany\23zer\templates\23zernishka\js\main.js;f3;27;9;27;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
 			<treenode node="old;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f8;670;11;670;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="options;JS:JS Var Name;E:\Work\Web\Working\SOCompany\23zer\templates\23zernishka\js\main.js;f8;8;15;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="params;JS:JS Var Name;E:\Work\Web\Working\SOCompany\23zer\templates\23zernishka\js\main.js;f32;10;38;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="val;JS:JS Var Name;E:\Work\Web\Working\ITFirst\musicaviva.ru\NeonC\components\com_soevents\views\items.php;f19;75;22;75;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
@@ -245,8 +509,8 @@
 	<dbgurls>
 	</dbgurls>
 	<filescache>
-		<file name="E:\_githubTest\Test1\index.php" crc="532710837"/>
-		<file name="E:\_githubTest\Test1\go-go.php" crc="1951950781"/>
-		<file name="E:\_githubTest\Test1\admin.php" crc="615664886"/>
+		<file name="E:\_githubTest\Test1\index.php" crc="-1111086746"/>
+		<file name="E:\_githubTest\Test1\go-go.php" crc="1477931391"/>
+		<file name="E:\_githubTest\Test1\admin.php" crc="-276405044"/>
 	</filescache>
 </project>

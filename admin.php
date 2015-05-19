@@ -4,3 +4,5 @@
   // adminkO
   $o = new adminCore();
   echo $o->go();
+  
+  Test!
