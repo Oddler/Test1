@@ -1,5 +1,4 @@
 <?
-
   require_once('core.php');
   
   $o = new soCore1();
